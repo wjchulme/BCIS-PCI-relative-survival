@@ -197,8 +197,8 @@ survdata <-
 
 
 
-#save(PCIdata, file = file.path("data","PCIdata.RData"))
-#save(survdata, file = file.path("data","survdata.RData"))
+save(PCIdata, file = file.path("data","PCIdata.RData"))
+save(survdata, file = file.path("data","survdata.RData"))
 
 save(rate_tables, file = file.path("data","rate_tables.RData"))
 save(life_tables, file = file.path("data","life_tables.RData"))

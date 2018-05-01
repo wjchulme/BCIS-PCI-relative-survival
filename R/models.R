@@ -3,6 +3,14 @@
 # RUN MODELS, STRATIFIED BY SEX, YEAR, INDICATION
 ######################################################################################################################################
 
+
+
+##use this if using synthetic data - everything else will follow
+survdata <- survdata_syn
+
+
+
+
 ### stratifying by one-year bands
 
 survmodels <-

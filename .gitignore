@@ -31,3 +31,9 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+.Rproj.user
+
+/R/sandbox.R
+/not-shared/
+/data/PCIdata.RData
+/data/survdata.RData
