@@ -1,6 +1,6 @@
 # BCIS-PCI-relative-survival
 
-R script to replicate analysis steps for study on relative survival in BCIS-PCI registry. 
+R script to replicate analysis steps for study on relative survival in BCIS-PCI registry. Relies heavily on the [tidyverse](https://www.tidyverse.org/) and on the [relsurv](https://CRAN.R-project.org/package=relsurv) package (see paper [here](https://doi.org/10.1016/j.compbiomed.2007.04.010))
 
 ## Replication instructions
 
