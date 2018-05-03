@@ -9,4 +9,4 @@ Run files in this order:
 - `models.R` Stratifies data by year, sex, and indication and runs relative survival analysis on each stratum. Includes smoothed hazard over time  + smoothed hazard ratio over age.
 - `tables... .R` and `figures.R` return tables and figures from objects created in first two files.
 
-- `data synthetic.R` creates synthetic BCIS-PCI registry data using methods from multiple imputation - see the [sythpop package][https://CRAN.R-project.org/package=synthpop] and [associated paper][dx.doi.org/10.18637/jss.v074.i11]. This allows the analysis steps to be replicated without disclosing real registry data (albeit providing different results).
+- `data synthetic.R` creates synthetic BCIS-PCI registry data using methods from multiple imputation - see the [sythpop package](https://CRAN.R-project.org/package=synthpop) and [associated paper](dx.doi.org/10.18637/jss.v074.i11). This allows the analysis steps to be replicated without disclosing real registry data (albeit providing different results).
