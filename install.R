@@ -9,5 +9,6 @@ install.packages("relsurv")
 
 install.packages("scales")
 install.packages('ggmosaic')
+install.packages('devtools')
 
-install_github("wjchulme/willsutils")
+devtools::install_github("wjchulme/willsutils")
