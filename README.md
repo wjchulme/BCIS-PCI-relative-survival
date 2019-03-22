@@ -2,7 +2,7 @@
 
 R script to replicate analysis steps for study on relative survival in BCIS-PCI registry. Relies heavily on the [tidyverse](https://www.tidyverse.org/) and on the [relsurv](https://CRAN.R-project.org/package=relsurv) package (see paper [here](https://doi.org/10.1016/j.compbiomed.2007.04.010))
 
-Launch binder here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wjchulme/BCIS-PCI-relative-survival/bindertest)
+Launch binder here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wjchulme/BCIS-PCI-relative-survival/bindertest?filepath=rstudio)
 
 ## Replication instructions
 
